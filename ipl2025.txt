@@ -9,4 +9,4 @@ worldcup 2025
 
 ipl2026
 
-ipl2026 v2
+ipl2026 v1
